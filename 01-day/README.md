@@ -1,4 +1,5 @@
 # 💻 Day 1: Exercises
+
 1. Write a single line comment which says, _comments can make code readable_
 2. Write another single comment which says, *welcome to 30DaysOfJavaScript*
 3. Write a multiline comment which says, _comments can make code readable, easy to use_
@@ -12,8 +13,8 @@
 9. Declare variables to store your first name, last name, marital status, country and age in a single line
 10. Declare two variables _myAge_ and _yourAge_ and assign them initial values and log to browser console.
    Output:
+
    ```sh
    I am 25 years old.
    You are 30 years old.
-  
    ```
